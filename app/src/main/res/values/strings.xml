@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplitTimer</string>
+    <string name="initial_time">00:00:00:00</string>
+    <string name="start">Start</string>
+    <string name="split">Split</string>
+    <string name="stop">Stop</string>
+    <string name="records">Records</string>
+</resources>
